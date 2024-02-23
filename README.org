@@ -1,0 +1,12 @@
+* =tanakh-mode.el=
+
+Kinda [[https://github.com/mattn/vim-tanakh/tree/master][vim-tanakh]] or [[https://github.com/mattn/vscode-tanakh][vscode-tanakh]].
+
+** Installation
+
+Use [[https://github.com/radian-software/straight.el][straight.el]] for installation.
+
+** Thanks
+
+[[https://github.com/TeMPOraL/nyan-mode][nyan-mode]]
+
