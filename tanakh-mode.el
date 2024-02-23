@@ -9,7 +9,7 @@
     (setq tanakh-i (% (+ 1 tanakh-i) (length tanakh-face)))
     (force-mode-line-update))
 
-(defgroup tanah nil
+(defgroup tanakh nil
     "Customization group for `tanakh-mode'."
     :group 'frames)
 
