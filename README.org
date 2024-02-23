@@ -4,7 +4,7 @@ Kinda [[https://github.com/mattn/vim-tanakh/tree/master][vim-tanakh]] or [[https
 
 ** Installation
 
-Use [[https://github.com/radian-software/straight.el][straight.el]] for installation.
+Use [[https://github.com/radian-software/straight.el][straight.el]] or an alternative.
 
 ** Thanks
 
